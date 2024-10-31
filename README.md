@@ -1,4 +1,4 @@
-# Hi! I'm Edgar:
+# About me:
 * Master's student studying statistics at Georgia State University.<br>
 * I have a passion for predictive analytics, financial modeling, and data storytelling. <br>
 * My work focuses on transforming complex datasets into actionable insights and making data more accessible and impactful. <br>
