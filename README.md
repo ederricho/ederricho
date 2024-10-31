@@ -1,3 +1,4 @@
+[![header][header-url]][header-link]
 # About me:
 * Master's student studying statistics at Georgia State University.<br>
 * I have a passion for predictive analytics, financial modeling, and data storytelling. <br>
