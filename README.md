@@ -1,3 +1,4 @@
+![1LuaZjjTD4u_3uJTGbPxSZw](https://github.com/user-attachments/assets/186d08cd-4f37-415c-bf62-ee8154e1f2a4)
 # About me:
 * Master's student studying statistics at Georgia State University.<br>
 * I have a passion for predictive analytics, financial modeling, and data storytelling. <br>
