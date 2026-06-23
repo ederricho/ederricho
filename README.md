@@ -1,5 +1,5 @@
 # About me:
-* Graduate of Georgia State University - M.S. in Applied Mathematics (Statistics Concentration).<br>
+* Georgia State University Graduate - M.S. in Applied Mathematics (Statistics Concentration).<br>
 * I have a passion for predictive analytics, financial modeling, and data storytelling. <br>
 * My work focuses on transforming complex datasets into actionable insights and making data more accessible and impactful. <br>
 * I am always eager to learn new techniques and collaborate on projects that allow me to learn more about data science.
